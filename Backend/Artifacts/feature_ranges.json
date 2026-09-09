@@ -1,0 +1,17 @@
+{
+  "Age": {
+    "min": 0.08,
+    "max": 82.0,
+    "default": 45.0
+  },
+  "Avg Glucose Level": {
+    "min": 55.12,
+    "max": 271.74,
+    "default": 91.88
+  },
+  "Bmi": {
+    "min": 10.3,
+    "max": 97.6,
+    "default": 28.1
+  }
+}

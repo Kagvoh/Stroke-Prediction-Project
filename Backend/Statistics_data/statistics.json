@@ -1,0 +1,92 @@
+{
+  "age_group_vs_stroke": [
+    {
+      "Age Group": "Child",
+      "stroke_rate": 0.002336448598130841
+    },
+    {
+      "Age Group": "Middle Aged",
+      "stroke_rate": 0.03836317135549872
+    },
+    {
+      "Age Group": "Senior",
+      "stroke_rate": 0.13154069767441862
+    },
+    {
+      "Age Group": "Young Adult",
+      "stroke_rate": 0.00456968773800457
+    }
+  ],
+  "hypertension_vs_stroke": [
+    {
+      "Hypertension": 0,
+      "stroke_rate": 0.039687703318152245
+    },
+    {
+      "Hypertension": 1,
+      "stroke_rate": 0.13253012048192772
+    }
+  ],
+  "heart_disease_vs_stroke": [
+    {
+      "Heart Disease": 0,
+      "stroke_rate": 0.041795985930064145
+    },
+    {
+      "Heart Disease": 1,
+      "stroke_rate": 0.17028985507246377
+    }
+  ],
+  "Bmi_group_vs_stroke": [
+    {
+      "Bmi Category": "Normal",
+      "stroke_rate": 0.02818035426731079
+    },
+    {
+      "Bmi Category": "Obese",
+      "stroke_rate": 0.051041666666666666
+    },
+    {
+      "Bmi Category": "Overweight",
+      "stroke_rate": 0.07142857142857142
+    },
+    {
+      "Bmi Category": "Underweight",
+      "stroke_rate": 0.002967359050445104
+    }
+  ],
+  "glucose_group_vs_stroke": [
+    {
+      "Glucose Category": "Diabetes",
+      "stroke_rate": 0.10204081632653061
+    },
+    {
+      "Glucose Category": "Normal",
+      "stroke_rate": 0.03577131906739061
+    },
+    {
+      "Glucose Category": "Prediabetes",
+      "stroke_rate": 0.03707414829659319
+    }
+  ],
+  "smoking_status_vs_stroke": [
+    {
+      "Smoking Status": "Unknown",
+      "stroke_rate": 0.03044041450777202
+    },
+    {
+      "Smoking Status": "formerly smoked",
+      "stroke_rate": 0.07918552036199095
+    },
+    {
+      "Smoking Status": "never smoked",
+      "stroke_rate": 0.04756871035940803
+    },
+    {
+      "Smoking Status": "smokes",
+      "stroke_rate": 0.053231939163498096
+    }
+  ],
+  "overall_stroke_rate": 0.04873752201996477,
+  "n_rows": 5109
+}
